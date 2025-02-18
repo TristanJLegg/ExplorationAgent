@@ -1,0 +1,10 @@
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+miniworld==2.1.0
+opencv-python==4.11.0.86
+PyYAML==6.0.2
+stable_baselines3==2.5.0
+tensorboard==2.19.0
+torch --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
