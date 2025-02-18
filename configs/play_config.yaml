@@ -1,0 +1,25 @@
+# Environment Parameters
+observation_type: "RGBD"
+large_map_size: 84
+small_map_size: 84
+large_map_range: 84
+small_map_range: 42
+grid_blocks_size: 0.25
+agent_height: 1.5
+agent_base: 0
+agent_obstacle_height_tolerance: 0.15
+obs_height: 84
+obs_width: 84
+environment_size: 5
+num_hidden_rooms: 4 # Number of hidden rooms to generate
+minimum_full_rooms: 1 # Minimum percentage of rooms that are generated
+room_size: 7 
+door_width: 2.2
+door_height: 2.5
+door_length: 0.5
+max_episode_steps: 20000
+coverage_for_termination: 0.95
+step_penalty: 0.00001
+depth_cutoff: 5
+# seed: 0
+seed: 0
