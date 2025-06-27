@@ -176,6 +176,6 @@ def main(config_file: str):
     print("Video Saved.")
 
 if __name__ == "__main__":
-    assert len(sys.argv) > 1, "Usage: python train.py <config_file>"
+    assert len(sys.argv) > 1, "Usage: python video.py <config_file>"
     config_file = sys.argv[1]
     main(config_file)
