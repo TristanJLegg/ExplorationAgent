@@ -1,9 +1,9 @@
 # ExplorationAgent
 
-ExplorationAgent is a reinforcement learning research platform focused on **maximising discovery in large, complex 3D environments**.  
-The project investigates different sequence modelling approaches for exploration — from classic recurrent networks (GRUs) to **transformer-based architectures inspired by GPT**. The goal is to enable agents to not only act, but also build memory, plan, and push deeper into unknown spaces using intrinsic curiosity signals.
+ExplorationAgent is a reinforcement learning research platform focused on maximising discovery in large, complex 3D environments.  
+The project investigates different sequence modelling approaches for exploration — from classic recurrent networks (GRUs) to transformer-based architectures inspired by GPT. The goal is to enable agents to not only act, but also build memory, plan, and push deeper into unknown spaces using intrinsic curiosity signals.
 
-This work formed part of my Master’s thesis: *“Maximising Exploration and Discovery in Unknown Large Intricate 3D Worlds”*.  
+This work formed part of my Master’s thesis: “Maximising Exploration and Discovery in Unknown Large Intricate 3D Worlds”.  
 Key contributions include:
 
 - **Multiple Architectures:** Implementations of GRU, feed-forward, and transformer-based agents for exploration.  
